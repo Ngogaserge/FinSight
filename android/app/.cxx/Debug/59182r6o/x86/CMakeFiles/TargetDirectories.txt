@@ -1,0 +1,2 @@
+C:/Users/HP/StudioProjects/personal_finance_tracker/android/app/.cxx/Debug/59182r6o/x86/CMakeFiles/edit_cache.dir
+C:/Users/HP/StudioProjects/personal_finance_tracker/android/app/.cxx/Debug/59182r6o/x86/CMakeFiles/rebuild_cache.dir
